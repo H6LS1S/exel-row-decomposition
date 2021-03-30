@@ -5,9 +5,9 @@
  | |___  >  <|  __/| || |_| ||  __/| (__| (_) || | | | | || |_) || (_) |\__ \|  __/| |   
  |_____|/_/\_\\___||_||____/  \___| \___|\___/ |_| |_| |_|| .__/  \___/ |___/ \___||_|   
 
-? Select a target input file: /home/helsis/Documents/exel/static/input.xlsx
+? Select a target input file: ~/Documents/exel/static/input.xlsx
 ? Input prefix for transformed file: -output
-? Transform Worksheet - Лист1 ? Yes
+? Transform Worksheet - List1 ? Yes
 ? Input headers row: 1
 ? Input data separator: ;
 ? Select a target cell: Emails                          
